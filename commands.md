@@ -2,12 +2,14 @@
  double an object
 * clone: definition
 
-checkout
-## switches between different codes. Like versions
+## checkout
+switches between different codes. Like versions
 -b
 status
 push
--u
+## -u
+sets upstream branch
+
 pull
 add
 commit
